@@ -76,7 +76,7 @@ Currently exploring opportunities in **Data Analytics & Project Management (PMO 
 ## 📫 Connect With Me
 - 📧 Email: pranay.daharwal100@gmail.com  
 - 📱 Mobile: +91-9752871128  
-- 🔗 LinkedIn: (Add your link here)
+- 🔗 LinkedIn: (https://www.linkedin.com/in/pranay-d-699250326/)
 
 ---
 
