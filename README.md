@@ -1,38 +1,51 @@
 # 👋 Hi, I'm Pranay Daharwal
 
-🎯 Data Analyst | MIS Engineer | Aspiring PMO Professional | Data Engineering
+🎯 Data Analyst | Data Engineer | Aspiring PMO Professional  
 📍 India  
 
 ---
 
 ## 🚀 About Me
-Results-driven Data Analyst with 3+ years of experience in data analysis, reporting, and MIS operations. Skilled in transforming raw data into actionable insights using SQL, Python, Excel, Power BI, and Tableau.  
+Results-driven Data Analyst with 3+ years of experience in data analysis, MIS reporting, and data-driven decision-making. Skilled in transforming raw data into actionable insights and building scalable data solutions.
 
-Strong experience in:
-- Data Cleaning & Validation  
-- Exploratory Data Analysis (EDA)  
-- Dashboard Development & KPI Reporting  
-- Data Reconciliation & Quality Management  
+Hands-on experience in:
+- Data Analysis & Reporting  
+- ETL Pipelines & Data Processing  
+- Dashboard Development & KPI Tracking  
+- Data Validation & Quality Management  
 
-Currently exploring opportunities in **Data Analytics & Project Management (PMO roles)**.
+Currently expanding expertise in **Azure Data Engineering, PySpark, and Django**.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Databases:**  
-- Python (Pandas, NumPy)  
-- SQL (Joins, CTEs, Window Functions)  
-- MySQL, SQL Server  
+### 💻 Programming & Frameworks
+- Python (Pandas, NumPy, PySpark)
+- SQL (Joins, CTEs, Window Functions)
+- Django (Backend Development - Basic)
 
-**Data Analysis & BI Tools:**  
+### ☁️ Cloud & Data Engineering
+- Microsoft Azure  
+  - Azure Data Factory (ADF)  
+  - Azure Data Lake Storage (ADLS Gen2)  
+  - Azure Databricks  
+  - Azure Synapse Analytics  
+- ETL Pipelines & Data Workflows  
+- Batch Processing & Data Transformation  
+
+### 📊 Data Analysis & BI Tools
 - Power BI  
 - Tableau  
 - Advanced Excel (Pivot, VLOOKUP, Power Query)  
 
-**Tools & Platforms:**  
-- Jupyter Notebook  
+### 🗄️ Databases
+- MySQL  
+- Microsoft SQL Server  
+
+### ⚙️ Tools & Platforms
 - Git & GitHub  
+- Jupyter Notebook  
 - Jira & Confluence  
 - MS Office  
 
@@ -46,9 +59,15 @@ Currently exploring opportunities in **Data Analytics & Project Management (PMO 
 - Created KPI tracking and revenue insights  
 
 ### 🔹 Customer Segmentation Analysis
-- Performed EDA using Python  
+- Performed EDA using Python & SQL  
 - Data cleaning, transformation & feature engineering  
 - Identified customer behavior patterns  
+
+### 🔹 Data Pipeline Project (Azure + PySpark)
+- Built ETL pipeline using Azure Data Factory & Databricks  
+- Processed large datasets using PySpark  
+- Stored data in Azure Data Lake  
+- Prepared structured data for analytics  
 
 ---
 
@@ -57,26 +76,27 @@ Currently exploring opportunities in **Data Analytics & Project Management (PMO 
 ### 🏢 GlobalLogic Technologies – Associate Analyst
 - Data validation, cleaning & quality checks on large datasets  
 - Built dashboards and automated reports  
-- Improved reporting efficiency and accuracy  
+- Improved reporting efficiency and data accuracy  
 
 ### 🏢 M/S Mahato – MIS Engineer
-- Managed project data, billing, and reporting  
-- Created MIS reports for decision-making  
-- Handled data validation and reconciliation  
+- Managed project data, billing, and MIS reporting  
+- Created reports for operations and decision-making  
+- Performed data validation and reconciliation  
 
 ---
 
 ## 📈 What I’m Working On
-- Improving SQL & Python for advanced analytics  
-- Building real-world data projects  
-- Preparing for Data Analyst & PMO roles  
+- Advanced Data Engineering (Azure + PySpark)  
+- Building scalable data pipelines  
+- Backend integration using Django  
+- Preparing for Data Analyst & Data Engineer roles  
 
 ---
 
 ## 📫 Connect With Me
 - 📧 Email: pranay.daharwal100@gmail.com  
 - 📱 Mobile: +91-9752871128  
-- 🔗 LinkedIn: (https://www.linkedin.com/in/pranay-d-699250326/)
+- 🔗 LinkedIn: https://www.linkedin.com/in/pranay-d-699250326/  
 
 ---
 
