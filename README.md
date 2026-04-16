@@ -1,44 +1,83 @@
-### Hi there 👋
-<h3 align="left">A Passionate Data Analytics Learner</h3>
+# 👋 Hi, I'm Pranay Daharwal
 
-###
+🎯 Data Analyst | MIS Engineer | Aspiring PMO Professional | Data Engineering
+📍 India  
 
-<br clear="both">
+---
 
-<div align="center">
-  
-###
+## 🚀 About Me
+Results-driven Data Analyst with 3+ years of experience in data analysis, reporting, and MIS operations. Skilled in transforming raw data into actionable insights using SQL, Python, Excel, Power BI, and Tableau.  
 
-<h6 align="left">🔹💼 I'm a Data Analyst Enthusiast where my passion for data and cutting-edge technology comes to life. I specialize in leveraging Advanced Excel, MySQL and Power BI tools, along with a keen focus on Preventive Maintenance to ensure data accuracy and reliability.</h6>
+Strong experience in:
+- Data Cleaning & Validation  
+- Exploratory Data Analysis (EDA)  
+- Dashboard Development & KPI Reporting  
+- Data Reconciliation & Quality Management  
 
-###
+Currently exploring opportunities in **Data Analytics & Project Management (PMO roles)**.
 
-<h6 align="left">4 months experience as a Data analytics Intern at CoachX.Live I've dived into Python Problem Solving, Data Analysis,Algorithms, Web Scraping, Text Mining, Data Preprocessing, EDA, and Natural Language Processing, along with model d
-  eployment.</h6>
+---
 
-###
+## 🛠️ Tech Stack
 
-<h6 align="left">🔹👯 My diverse skill set spans databases, frameworks, programming languages, data analysis, machine learning, and deep learning. I'm dedicated to helping people and businesses harness the power of data to drive innovation and decision-making.</h6>
+**Languages & Databases:**  
+- Python (Pandas, NumPy)  
+- SQL (Joins, CTEs, Window Functions)  
+- MySQL, SQL Server  
 
-###
+**Data Analysis & BI Tools:**  
+- Power BI  
+- Tableau  
+- Advanced Excel (Pivot, VLOOKUP, Power Query)  
 
-<h2 align="left">Connect With Me.</h2>
+**Tools & Platforms:**  
+- Jupyter Notebook  
+- Git & GitHub  
+- Jira & Confluence  
+- MS Office  
 
-###
+---
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/pranay-daharwal0707" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/daharwal_pranay/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="PRANAY.DAHARWAL100@GMAIL.COM " target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://api.whatsapp.com/send/?phone=%2B919752871128&text&type=phone_number&app_absent=0" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-</div>
+## 📊 Projects
 
-###
+### 🔹 Sales Performance Dashboard
+- Built interactive dashboards using Power BI/Tableau  
+- Performed ETL using SQL & Excel  
+- Created KPI tracking and revenue insights  
+
+### 🔹 Customer Segmentation Analysis
+- Performed EDA using Python  
+- Data cleaning, transformation & feature engineering  
+- Identified customer behavior patterns  
+
+---
+
+## 💼 Work Experience
+
+### 🏢 GlobalLogic Technologies – Associate Analyst
+- Data validation, cleaning & quality checks on large datasets  
+- Built dashboards and automated reports  
+- Improved reporting efficiency and accuracy  
+
+### 🏢 M/S Mahato – MIS Engineer
+- Managed project data, billing, and reporting  
+- Created MIS reports for decision-making  
+- Handled data validation and reconciliation  
+
+---
+
+## 📈 What I’m Working On
+- Improving SQL & Python for advanced analytics  
+- Building real-world data projects  
+- Preparing for Data Analyst & PMO roles  
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: pranay.daharwal100@gmail.com  
+- 📱 Mobile: +91-9752871128  
+- 🔗 LinkedIn: (Add your link here)
+
+---
+
+⭐ *Open to opportunities | Immediate Joiner*
